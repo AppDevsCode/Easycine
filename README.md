@@ -7,7 +7,7 @@ EasyCine is a **premium Netflix-like Android OTT app** with a powerful **React +
 
 ## Download Demo
 
-[![Download Demo APK](https://img.shields.io/badge/⬇%20Download-Demo%20APK-brightgreen?style=for-the-badge)](https://github.com/AppDevsCode/Easycine/releases/tag/v4.0-Demo)
+[![Download Demo APK](https://img.shields.io/badge/⬇%20Download-Demo%20APK-brightgreen?style=for-the-badge)](https://github.com/AppDevsCode/Easycine-Movie-TV-Show-Video-Streaming-Android-App-With-Admin-Panel/releases/tag/v4.0-Demo)
 
 ---
 
